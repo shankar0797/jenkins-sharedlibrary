@@ -1,4 +1,4 @@
 def call ()
 {
-  echo "hello friends"
+  echo "hello friends,welcome to the channel"
 }
